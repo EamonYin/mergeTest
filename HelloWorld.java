@@ -1,5 +1,5 @@
 public class HelloWorld{
     public static void main(String[] args) {
-        System.out.println("Devbug 手动在dev解决冲突");
+        System.out.println("这里是 main 分支");
     }
 }
