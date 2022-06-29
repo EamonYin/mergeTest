@@ -1,6 +1,5 @@
 public class HelloWorld{
     public static void main(String[] args) {
-        System.out.println("Devbug 手动在dev制造冲突 main解决冲突");
+        System.out.println("Devbug 手动在dev解决冲突");
     }
-
 }
